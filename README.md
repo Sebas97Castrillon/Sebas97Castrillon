@@ -10,12 +10,11 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Hola a todos, soy un desarrollador de software en etapa lectiva y me gustaría compartir con ustedes mi experiencia y mis proyectos. 
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+Me apasiona la programación y el diseño de aplicaciones web, móviles y de escritorio. He aprendido varios lenguajes y herramientas, como Python, Java, HTML, CSS, JavaScript y Flutter. Me gusta estar al día con las últimas tendencias y tecnologías del sector. 
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+Estoy aquí para compartir con ustedes algunos de mis proyectos y mostrarles cómo aplico mis conocimientos y habilidades en el desarrollo de software
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
