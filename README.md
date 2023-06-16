@@ -1,7 +1,7 @@
 # ![]() Hola, mi nombre es Sebastian Castrillon 👋
 ### Desarrrollador de software
 
-![](Grey Minimalist Modern Social Media Specialist LinkedIn Banner.png)
+![]([Grey Minimalist Modern Social Media Specialist LinkedIn Banner.png](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/a4d7f9e7edd17dded62c19b933ea107e24ff77e2/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png))
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]()
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)]()
