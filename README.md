@@ -1,7 +1,7 @@
 # ![]() Hola, mi nombre es Sebastian Castrillon 👋
 ### Desarrrollador de software
 
-![](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![](Grey Minimalist Modern Social Media Specialist LinkedIn Banner.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]()
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)]()
