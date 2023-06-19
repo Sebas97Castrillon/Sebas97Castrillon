@@ -1,8 +1,7 @@
 # ![]() Hola, mi nombre es Sebastian Castrillon 👋
 ### Desarrrollador de software
 
-![Static Badge](https://img.shields.io/badge/%22hola%22)
-
+<img src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I"></img>
 
 ![https://github.com/Sebas97Castrillon](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/6d3e650e510e733e48e3ea8ee81967e9272fcf9b/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
 
