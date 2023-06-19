@@ -1,7 +1,9 @@
 # ![]() Hola, mi nombre es Sebastian Castrillon 👋
 ### Desarrrollador de software
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/:channelId?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsLwfNIu3k5nk3RwX_3Q_Sg)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsLwfNIu3k5nk3RwX_3Q_Sg%252Fchannel%252FUCsLwfNIu3k5nk3RwX_3Q_Sg)?link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsLwfNIu3k5nk3RwX_3Q_Sg)
+
+
 
 
 
