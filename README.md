@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sebastian castrillon palacio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian castrillon palacio" height="30" width="40" /></a>
-<a href="https://fb.com/sebastian castrillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebastian castrillon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebastian-castrillon-palacio-45609817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian castrillon palacio" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089485547431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebastian castrillon" height="30" width="40" /></a>
 </p>
 
 
@@ -48,7 +48,7 @@ Estoy aquí para compartir con ustedes algunos de mis proyectos y mostrarles có
 [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
 [![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)]()
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/sebastian-castrillon-palacio-45609817b/?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 
 ## Contacto y apoyo:
