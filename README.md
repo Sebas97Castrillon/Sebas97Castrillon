@@ -19,3 +19,8 @@ Habilidades: Reflex / Spring / JS / HTML / CSS / BOOTSTRAP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sebas97Castrillon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-castrillon-palacio-45609817b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100089485547431)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas97Castrillon)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas97Castrillon&show_icons=true)  
+
+
