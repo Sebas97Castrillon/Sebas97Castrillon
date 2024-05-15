@@ -9,9 +9,6 @@ Growing software developer, open to new opportunities and constant learning
 <a href="https://www.facebook.com/profile.php?id=100089485547431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebastian castrillon" height="30" width="40" /></a>
 </p>
 
-
-![https://github.com/Sebas97Castrillon](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/6d3e650e510e733e48e3ea8ee81967e9272fcf9b/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]()
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)]()
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)]()
