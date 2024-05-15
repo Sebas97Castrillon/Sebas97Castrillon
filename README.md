@@ -1,3 +1,16 @@
+### Hi there 👋, my name is Sebastian Castrillon
+#### I am software development
+![I am software development](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
+
+Growing software developer, open to new opportunities and constant learning
+
+Skills: Reflex / Spring / JS / HTML / CSS / BOOTSTRAP
+
+- 🌱 I’m currently learning Reflex · Web apps in Pure Python 
+- 📫 How to reach me: sebas.2561@hotmail.com
+
+  
+
 <h1 align="center">Hi 👋, I'm Sebastian Castrillon Palacio</h1>
 <h3 align="center">Desarrollador de software</h3>
 
