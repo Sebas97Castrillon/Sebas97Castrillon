@@ -6,15 +6,10 @@ Growing software developer, open to new opportunities and constant learning
 
 Habilidades: Reflex / Spring / JS / HTML / CSS / BOOTSTRAP
 
-- 🌱 Estoy aprendiendo Reflex · Web apps in Pure Python 
-- 📫 Cómo contactarme: sebas.2561@hotmail.com 
+- 🌱 I'am learning Reflex · Web apps in Pure Python 
+- 📫 How to contact me: sebas.2561@hotmail.com 
 
-## Encuéntrame en:
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-
+## Find me at:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' target="_blank" alt='github' height='40'>](https://github.com/Sebas97Castrillon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-castrillon-palacio-45609817b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100089485547431) 
 
