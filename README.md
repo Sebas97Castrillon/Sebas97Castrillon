@@ -1,15 +1,15 @@
-### Hola 👋, my name is Sebastian Castrillon
-#### I am software development
-![I am software development](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
+### Hola 👋, mi nombre es Sebastian Castrillon
+#### Soy desarrollador de software
+![Soy desarrollador de software](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
 
-Growing software developer, open to new opportunities and constant learning
+Desarrollador de software en crecimiento, abierto a nuevas oportunidades y en constante aprendizaje
 
 Habilidades: Reflex / Spring / JS / HTML / CSS / BOOTSTRAP
 
-- 🌱 I'am learning Reflex · Web apps in Pure Python 
-- 📫 How to contact me: sebas.2561@hotmail.com 
+- 🌱 Estoy aprendiendo Reflex · Web apps in Pure Python 
+- 📫 Contáctame en: sebas.2561@hotmail.com 
 
-## Find me at:
+## Encuéntrame en:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' target="_blank" alt='github' height='40'>](https://github.com/Sebas97Castrillon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sebastian-castrillon-palacio-45609817b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100089485547431) 
 
