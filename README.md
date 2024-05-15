@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Sebastian Castrillon
-<h1 align="center">Hi 👋, I'm Sebastian Castrillon Palacio</h1>
+<h1 align="center">Hi there 👋, my name is Sebastian Castrillon</h1>
 #### I am software development
 ![I am software development](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
 
