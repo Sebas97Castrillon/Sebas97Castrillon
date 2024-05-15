@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sebastian Castrillon Palacio</h1>
-<h3 align="center">Desarrollador de software</h3>
+### Hola 👋, my name is Sebastian Castrillon
+#### I am software development
+![I am software development](https://github.com/Sebas97Castrillon/Sebas97Castrillon/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
 
-- 📫 How to reach me **sebas.2561@hotmail.com**
+Growing software developer, open to new opportunities and constant learning
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sebastian-castrillon-palacio-45609817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian castrillon palacio" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100089485547431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sebastian castrillon" height="30" width="40" /></a>
